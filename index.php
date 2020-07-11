@@ -49,7 +49,7 @@
                                             <p>A UV based ,chemical free ,disinfection and compliance monitoring solution for your daily Appliances
                                                 
                                             </p>
-                                            <a href="uv-sterilizer.html" class="btn_2">buy now</a>
+                                            <a href="uv-sterilizer.php" class="btn_2">Know more</a>
                                         </div>
                                     </div>
                                 </div>

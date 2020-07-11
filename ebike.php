@@ -106,48 +106,127 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-12">
-                 
-                            <div class="row align-items-center justify-content-between">
-
-                                <div class="col-lg-12  col-sm-12">
-                                    <div class="single_product_item  position-relative" >
-                                        <img src="img/bike2.png" alt="">
-                                        <div class="single_product_text">
-                                            <h4>PADDLE C (comfort)</h4>
-                                            <!-- <h3>₹20,000 <del style="font-size: x-small;"  >₹27000</del></h3> -->
-                                            <a href="paddle-c.php" class="add_cart stretched-link">+ add to cart<i class="ti-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-sm-6">
-                                    <div class="single_product_item position-relative">
-                                        <img src="img/bike1.png" alt="">
-                                        <div class="single_product_text">
-                                            <h4>PADDLE E (econimic)</h4>
-                                            <!-- <h3>₹ 22,000 <del style="font-size: x-small;"  >₹28000</del></h3> -->
-                                            <a href="paddle-e.php" class="add_cart stretched-link">+ add to cart<i class="ti-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-sm-6">
-                                    <div class="single_product_item position-relative">
-                                        <img src="img/bike3.png" alt="">
-                                        <div class="single_product_text">
-                                            <h4>PADDLE F </h4>
-                                            <!-- <h3>₹25,000 <del style="font-size: x-small;"  >    32000</del></h3> -->
-                                            <a href="paddle-f.php" class="add_cart stretched-link">+ add to cart<i class="ti-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                       
-                            </div>
-                        </div>
-                      
-                
-            </div>
         </div>
+        <div class="product_image_area section_padding">
+    <div class="container">
+      <div class="row s_product_inner justify-content-between">
+        <div class="col-lg-7 col-xl-7">
+          <div class="product_slider_img">
+            <div id="vertical">
+              <div data-thumb="img/bike2.png">
+                <img src="img/bike2.png" />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-5 col-xl-4">
+          <div class="s_product_text">
+            <h3>PADDLE-C (Comfort)</h3>
+            <!-- <h2>₹15,000</h2> -->
+            <ul class="list">
+              <li>
+                <a class="active" href="#">
+                  <span>Category</span> : Travel</a>
+              </li>
+              <li>
+                <a href="#"> <span>Availibility</span> : In Stock</a>
+              </li>
+            </ul>
+            <p>
+              This product is a utility for every person who are is thinking for economical and environmentally friendly 
+              solution for his travel. There is No Age Limit to ride this cycle. It Saves the Nature, reduces risk of Heart Disease,
+               reveals stress, improve blood pressure, strengthen muscle, makes immune system strong, Keeps Healthy, keeps Fit, 
+               No Tension of Traffic Jams.
+            </p>
+            <a href="paddle-c.php" class="btn_2">View More</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- start of padle E-->
+  <div class="product_image_area section_padding">
+    <div class="container">
+      <div class="row s_product_inner justify-content-between">
+        <div class="col-lg-7 col-xl-7">
+          <div class="product_slider_img">
+            <div id="vertical">
+              <div data-thumb="img/bike1.png">
+                <img src="img/bike1.png" />
+              </div>
+              
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-5 col-xl-4">
+          <div class="s_product_text">
+            <h3>PADDLE-E (Economic)</h3>
+            <!-- <h2>₹18,000</h2> -->
+            <ul class="list">
+              <li>
+                <a class="active" href="#">
+                  <span>Category</span> : Travel</a>
+              </li>
+              <li>
+                <a href="#"> <span>Availibility</span> : In Stock</a>
+              </li>
+            </ul>
+            <p>
+              This product is a utility for every person who are is thinking for economical and environmentally friendly 
+              solution for his travel. There is No Age Limit to ride this cycle. It Saves the Nature, reduces risk of Heart Disease,
+               reveals stress, improve blood pressure, strengthen muscle, makes immune system strong, Keeps Healthy, keeps Fit, 
+               No Tension of Traffic Jams.
+            </p>
+            <a href="paddle-e.php" class="btn_2">View More</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  <!--================Single Product Area =================-->
+  <div class="product_image_area section_padding">
+    <div class="container">
+      <div class="row s_product_inner justify-content-between">
+        <div class="col-lg-7 col-xl-7">
+          <div class="product_slider_img">
+            <div id="vertical">
+              <div data-thumb="img/bike3.png">
+                <img src="img/bike3.png" />
+              </div>
+    
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-5 col-xl-4">
+          <div class="s_product_text">
+            <h3>PADDLE-F</h3>
+            <!-- <h2>₹23,000</h2> -->
+            <ul class="list">
+              <li>
+                <a class="active" href="#">
+                  <span>Category</span> : Travel</a>
+              </li>
+              <li>
+                <a href="#"> <span>Availibility</span> : In Stock</a>
+              </li>
+            </ul>
+            <p>
+              This product is a utility for every person who are is thinking for economical and environmentally friendly 
+              solution for his travel. There is No Age Limit to ride this cycle. It Saves the Nature, reduces risk of Heart Disease,
+               reveals stress, improve blood pressure, strengthen muscle, makes immune system strong, Keeps Healthy, keeps Fit, 
+               No Tension of Traffic Jams.
+            </p>
+            <a href="paddle-f.php" class="btn_2">View More</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <!--================End Single Product Area =================-->
     </section>
     <!-- product_list part start-->
 
