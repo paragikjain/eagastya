@@ -45,9 +45,9 @@
                                     <div class="banner_text">
                                         <div class="banner_text_iner">
                                             <h1>E-Bike</h1>
-                                            <p>This product is a utility for every person who are is thinking for economical and environmentally friendly 
-                                                solution for his travel. There is No Age Limit to ride this cycle. It Saves the Nature, reduces risk of Heart Disease,
-                                                 reveals stress, improve blood pressure, strengthen muscle, makes immune system strong, Keeps Healthy, keeps Fit, 
+                                            <p>This product is a utility for every person who are is thinking for economical and<br> environmentally friendly 
+                                                solution for his travel. There is No Age Limit to ride this<br> cycle. It Saves the Nature, reduces risk of Heart Disease,
+                                                 reveals stress, improve<br> blood pressure, strengthen muscle, makes immune system strong, Keeps Healthy,<br> keeps Fit, 
                                                  No Tension of Traffic Jams. </p>
                                             <a href="paddle-f.php" class="btn_2">buy now</a>
                                         </div>
@@ -55,7 +55,7 @@
                                 </div>
                                 
                                 <div class="banner_img d-none d-lg-block">
-                                    <img style="width: 50%; float: right ;" src="img/bike1.png" alt="">
+                                    <img style="width: 50%; float: right ;" src="img/bike3.png" alt="">
                                 </div>
                             </div>
                         </div>

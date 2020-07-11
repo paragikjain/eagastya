@@ -32,21 +32,41 @@
     <!-- Header part end-->
 
   <!-- breadcrumb start-->
-  <section class="breadcrumb breadcrumb_bg">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-lg-8">
-          <div class="breadcrumb_iner">
-            <div class="breadcrumb_iner_item">
-              <h2>UV STERILIZER</h2>
-              <p>Home </p>
+  <section class="banner_part" >
+        <div class="container">
+            <div class="row align-items-center m-0">
+                <div class="col-lg-12">
+                    <div class="banner_slider owl-carousel">
+                        <div class="single_banner_slider">
+                            <div class="row">
+                                <div class="col-lg-5 col-md-8 col-6">
+                                    <div class="banner_text">
+                                        <div class="banner_text_iner">
+                                            <h1>UV - STERILIZER</h1>
+                                            <p>A UV based ,chemical free ,disinfection and compliance monitoring solution for your daily Appliances
+                                                
+                                            </p>
+                                            <a href="uv-sterilizer.html" class="btn_2">buy now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="banner_img d-block  d-lg-block col-6" style="z-index: -1;">
+                                    <img src="img/uv_sanitizer.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+       
+                 
+                        </div>
+                       
+                    </div>
+                    <!-- <div class="slider-counter"></div> -->
+                </div>
             </div>
-          </div>
         </div>
-      </div>
-    </div>
-  </section>
-  <!-- breadcrumb start-->
+    </section>
+    <
+   <!-- breadcrumb start-->
   <!--================End Home Banner Area =================-->
 
   <!--================Single Product Area =================-->
@@ -88,15 +108,7 @@
               A UV based ,chemical free ,disinfection and compliance monitoring solution for your daily Appliances
 
             </p>
-            <div class="card_area d-flex justify-content-between align-items-center">
-              <div class="product_count">
-                <span class="inumber-decrement"> <i class="ti-minus"></i></span>
-                <input class="input-number" type="text" value="1" min="0" max="10">
-                <span class="number-increment"> <i class="ti-plus"></i></span>
-              </div>
-              <a href="#" class="btn_3">add to cart</a>
-              <a href="#" class="like_us"> <i class="ti-heart"></i> </a>
-            </div>
+
           </div>
         </div>
       </div>

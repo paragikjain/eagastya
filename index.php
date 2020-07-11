@@ -34,7 +34,8 @@
     <?php include('common/header.php');?>
     <!-- Header part end-->
 
-    <!-- banner part start-->    <section class="banner_part" >
+    <!-- banner part start-->   
+     <section class="banner_part" >
         <div class="container">
             <div class="row align-items-center m-0">
                 <div class="col-lg-12">
