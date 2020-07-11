@@ -19,7 +19,7 @@
                                     <a class="nav-link" href="about.php">About</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="uv-sterilizer.php">UV-STERILIZER</a>
+                                    <a class="nav-link" href="uv-sterilizer.php">UV-SWACHH</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="ebike.php">E-Bike</a>
