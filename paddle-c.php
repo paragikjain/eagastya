@@ -122,7 +122,7 @@
       <div class="tab-content" id="myTabContent">
         <div class="tab-pane fade" id="home" role="tabpanel" aria-labelledby="home-tab">
           <p>
-            Rishi Agastya Technologies
+              Rishi Agastya Technologies
               Published on Feb 20, 2020
               This product is a utility for every person who are is thinking for economical and environmentally friendly solution
               for his travel. There is No Age Limit to ride this cycle. It Saves the Nature, reduces risk of Heart Disease, reveals stress,

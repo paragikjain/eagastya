@@ -30,41 +30,33 @@
    <!--::header part start::-->
    <?php include('common/header.php');?>
     <!-- Header part end-->
-
+<br><br><br><br><br><br><br><br>
   <!-- breadcrumb start-->
-  <section class="banner_part" >
-        <div class="container">
-            <div class="row align-items-center m-0">
-                <div class="col-lg-12">
-                    <div class="banner_slider owl-carousel">
-                        <div class="single_banner_slider">
-                            <div class="row">
-                                <div class="col-lg-5 col-md-8 col-6">
-                                    <div class="banner_text">
-                                        <div class="banner_text_iner">
-                                            <h1>UV - Swachh</h1>
-                                            <p>A UV based ,chemical free ,disinfection and compliance monitoring solution for your daily Appliances
-                                                
-                                            </p>
-                                            
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="banner_img d-block  d-lg-block col-6" style="z-index: -1;">
-                                    <img src="img/uv_sanitizer.png" alt="">
-                                </div>
-                            </div>
-                        </div>
-       
-                 
-                        </div>
-                       
-                    </div>
-                    <!-- <div class="slider-counter"></div> -->
-                </div>
-            </div>
-        </div>
-    </section>
+ 	<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <img src="img/uv/1.png">
+    </div>
+    <div class="col-sm">
+      <img src="img/uv/3.png">
+    </div>
+     <div class="col-sm">
+      <img src="img/uv/4.png">
+	 </div>
+  </div><br><br>
+  <div class="row">
+      <div class="col-sm">
+      <img src="img/uv/5.png">
+    </div>
+	<div class="col-sm">
+      <img src="img/uv/6.png">
+    </div>
+	<div class="col-sm">
+      <img src="img/uv/7.png">
+    </div>
+	</div>
+</div>
+	
     <
    <!-- breadcrumb start-->
   <!--================End Home Banner Area =================-->
