@@ -51,9 +51,9 @@
 	<div class="col-sm">
       <img src="img/uv/6.png">
     </div>
-	<div class="col-sm">
+<!--	<div class="col-sm">
       <img src="img/uv/7.png">
-    </div>
+    </div>-->
 	</div>
 </div>
 	

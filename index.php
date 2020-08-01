@@ -1,4 +1,4 @@
-<!doctype html>
+x<!doctype html>
 <html lang="zxx">
 
 <head>
@@ -37,8 +37,11 @@
     <!-- banner part start-->   
      <section class="banner_part" >
         <div class="container">
+
             <div class="row align-items-center m-0">
                 <div class="col-lg-12">
+
+                    <!--
                     <div class="banner_slider owl-carousel">
                         <div class="single_banner_slider">
                             <div class="row">
@@ -78,14 +81,14 @@
                                 </div>
                                       
                                 <div class="banner_img d-none d-lg-block float-right w-50">
-                                    <!-- <img  src="img/bike3.png" alt=""> -->
+                                     <img  src="img/bike3.png" alt="">
                                 </div>
                             </div>
                         </div>
                         
                        
                     </div>
-                    <!-- <div class="slider-counter"></div> -->
+                     <div class="slider-counter"></div> -->
                 </div>
             </div>
         </div>
@@ -95,14 +98,14 @@
     <section class="product_list section_padding">
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-lg-12">
+                <!--<div class="col-lg-12">
                     <div class="section_tittle text-center">
                         <h2 style="text-align:center">Our Products</h2>
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </div>
-        <div class="product_image_area section_padding">
+        <!--<div class="product_image_area section_padding">
     <div class="container">
       <div class="row s_product_inner justify-content-between">
         <div class="col-lg-7 col-xl-7">
@@ -114,10 +117,11 @@
             </div>
           </div>
         </div>
+        
         <div class="col-lg-5 col-xl-4">
           <div class="s_product_text">
             <h3>Uv-Swachh</h3>
-            <!-- <h2>₹15,000</h2> -->
+             <h2>₹15,000</h2> 
             <ul class="list">
               <li>
                 <a class="active" href="#">
@@ -136,12 +140,40 @@
       </div>
     </div>
   </div>
-
+-->
   
-
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <img src="img/uv1/1.png">
+    </div>
+    <div class="col-sm">
+      <img src="img/uv1/2.png">
+    </div>
+     
+  </div><br><br>
+  <div class="row">
+  <div class="col-sm">
+      <img src="img/uv1/3.png">
+     </div>
+     <div class="col-sm">
+      <img src="img/uv1/4.png">
+    </div>
+   </div> 
+    <br><br> 
+  <div class="row">
+      
+    <div class="col-sm">
+      <img src="img/uv1/5.png">
+    </div>
+    <div class="col-sm">
+      <img src="img/uv1/6.png">
+    </div>
+    </div>
+</div>
   
   <!--================Single Product Area =================-->
-  <div class="product_image_area section_padding">
+  <!--<div class="product_image_area section_padding">
     <div class="container">
       <div class="row s_product_inner justify-content-between">
         <div class="col-lg-7 col-xl-7">
@@ -157,7 +189,7 @@
         <div class="col-lg-5 col-xl-4">
           <div class="s_product_text">
             <h3>E BIKE</h3>
-            <!-- <h2>₹23,000</h2> -->
+             <h2>₹23,000</h2>
             <ul class="list">
               <li>
                 <a class="active" href="#">
@@ -173,7 +205,7 @@
                reveals stress, improve blood pressure, strengthen muscle, makes immune system strong, Keeps Healthy, keeps Fit, 
                No Tension of Traffic Jams.
             </p>
-            <a href="ebike.php" class="btn_2">View More</a>
+            <a href="ebike.php" class="btn_2">View More</a>-->
           </div>
         </div>
       </div>
@@ -181,7 +213,7 @@
   </div>
   
   <!--================End Single Product Area =================-->
-    </section>
+    </section>-->
    
 
 
